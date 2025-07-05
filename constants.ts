@@ -1,4 +1,3 @@
-
 import { Artist, Page } from './types';
 
 export const ARTISTS: Artist[] = [
@@ -17,9 +16,9 @@ export const ARTISTS: Artist[] = [
     mbti: 'P1LM',
     representativeAnimal: 'Capybara 🦦',
     instagramUrl: 'https://www.instagram.com/hsu_know?igsh=MWcyb2d3ZTZsdnh6eg==',
-    facebookUrl: 'https://www.instagram.com/hsu_know?igsh=MWcyb2d3ZTZsdnh6eg==',
+    facebookUrl: 'https://www.facebook.com/share/1FsD2HZ21d/?mibextid=wwXIfr',
     about: 'As the CEO of B.N Entertainment and a former member of PARADISE, Boni leads with both vision and artistry. He is not only a sharp entrepreneur but also the group\'s main dancer, known for his fluid, powerful movements and captivating stage presence.',
-    imageUrl: 'https://picsum.photos/seed/boni/500/700',
+    imageUrl: 'boni.jpg',
     releasedSongs: ["Kill This Love", "armageddon"]
   },
   {
@@ -39,7 +38,7 @@ export const ARTISTS: Artist[] = [
     instagramUrl: 'https://www.instagram.com/hsu_know?igsh=MWcyb2d3ZTZsdnh6eg==',
     facebookUrl: 'https://www.facebook.com/share/16Wa4365Ep/?mibextid=wwXIfr',
     about: 'Formerly of the group PARADISE, Hsu Pyae is the soul of her new group as Main Vocalist. Her powerful and emotive voice carries every performance, complemented by her sharp rapping skills that bring a unique edge to their tracks.',
-    imageUrl: 'https://picsum.photos/seed/huspyae/500/700',
+    imageUrl: 'hp.jpg',
     releasedSongs: ["The Boys", "Wolf", "Genie", "မပိုင်ဆိုင်ရမှန်း", "အသဲခွဲဘုရင်မ", "Gee"]
   },
   {
@@ -59,7 +58,7 @@ export const ARTISTS: Artist[] = [
     instagramUrl: 'https://www.instagram.com/yuan_deep?igsh=dWN6ZGx1NmRpcHdw',
     facebookUrl: 'https://www.facebook.com/share/1YjAa5oPV8/?mibextid=wwXIfr',
     about: 'Yuan, a former member of PARADISE, shines as the Lead Vocalist and Main Rapper. Her clear, stable vocals provide the melodic backbone, while her confident rap verses add a powerful dynamic to the group\'s sound.',
-    imageUrl: 'https://picsum.photos/seed/naychi/500/700',
+    imageUrl: 'naychi.jpg',
     releasedSongs: ["နင်လေငါ့ကိုမချစ်ခဲ့ဘူးလား", "Beautiful", "RESONANCE", "numb"]
   },
   {
@@ -79,7 +78,7 @@ export const ARTISTS: Artist[] = [
     instagramUrl: 'https://www.instagram.com/akmiinn?igsh=MXVmaXE0Z2IwNTJraw%3D%3D&utm_source=qr',
     facebookUrl: 'https://www.facebook.com/share/1aPScxUwW2/?mibextid=wwXIfr',
     about: 'Formerly of PARADISE, Min is the group\'s thoughtful lead dancer and producer. With his INFJ personality, he crafts deep, meaningful lyrics and brings a unique, introspective flow to their music, connecting with listeners on a profound level through both his dance and rap.',
-    imageUrl: 'https://picsum.photos/seed/syian/500/700',
+    imageUrl: 'syian.jpg',
     releasedSongs: ["What is Love?", "Talk That Talk", "As if it is your last"]
   }
 ];
