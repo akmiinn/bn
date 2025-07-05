@@ -13,7 +13,7 @@ export const ARTISTS: Artist[] = [
     height: "170 cm (5'7\")",
     weight: '65 kg (143 lbs)',
     bloodType: 'B',
-    mbti: 'P1LM',
+    mbti: 'INFP',
     representativeAnimal: 'Capybara 🦦',
     instagramUrl: 'https://www.instagram.com/hsu_know?igsh=MWcyb2d3ZTZsdnh6eg==',
     facebookUrl: 'https://www.facebook.com/share/1FsD2HZ21d/?mibextid=wwXIfr',
