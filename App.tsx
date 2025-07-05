@@ -1,4 +1,3 @@
-
 import React, { useState, useCallback, useRef, useEffect } from 'react';
 import { Artist, Page } from './types';
 import { ARTISTS, NAV_ITEMS } from './constants';
@@ -48,7 +47,7 @@ const LandscapeSection = () => (
     <section id="landscape" className="h-[50vh] md:h-[70vh] w-full px-4" aria-hidden="true">
          <motion.div
             className="h-full w-full rounded-3xl bg-cover bg-center shadow-2xl"
-            style={{ backgroundImage: `url(https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=2070&auto=format&fit=crop)` }}
+            style={{ backgroundImage: `url(group.jpg)` }}
             initial={{ opacity: 0, scale: 0.95 }}
             whileInView={{ opacity: 1, scale: 1 }}
             viewport={{ once: true, amount: 0.4 }}
